@@ -31,6 +31,6 @@ Stay tuned for updates on our progress as we work towards launching Bubble Share
 
 ## Contact Us
 
-For any inquiries or partnership opportunities, please reach out to our team at [email protected]
+For any inquiries please reach out to our team at ______
 
 Let's connect and create a more secure and customizable networking and file-sharing solution with Bubble Share!
