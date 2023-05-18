@@ -20,7 +20,7 @@ Bubble Share addresses these problems by providing a secure and customizable pla
 
 - **Iyiola** (Software Architect)
 - **Iyanu** (Project Manager)
-- **Frida** (UI/UX Designer)
+- ** Fridaus** (UI/UX Designer)
 - **George** (Back-End Developer)
 
 ## Project Progress
