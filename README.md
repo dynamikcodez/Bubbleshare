@@ -22,7 +22,7 @@ Bubble Share addresses these problems by providing a secure and customizable pla
 - **Iyanu** Project Manager iyanuayo.oo@gmail.com
 - **Fridaus** UI/UX Designer fafemifridauso@gmail.com
 - **Christian** Front-End Developer chrisonwueyip@gmail.com
-- **Ikechi** Back-End Developer 
+- **Ikechi** Back-End Developer Ikechigreat@gmail.com
 - **George** Back-End Developer georgeokello335@gmail.com
 
 ## Project Progress
