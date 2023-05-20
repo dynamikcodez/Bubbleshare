@@ -18,10 +18,12 @@ Bubble Share addresses these problems by providing a secure and customizable pla
 
 ## Team Members
 
-- **Iyiola** (Software Architect)
-- **Iyanu** (Project Manager)
-- ** Fridaus** (UI/UX Designer)
-- **George** (Back-End Developer)
+- **Iyiola** Software Architect Olukoyaiyiola@gmail.com
+- **Iyanu** Project Manager iyanuayo.oo@gmail.com
+- **Fridaus** UI/UX Designer fafemifridauso@gmail.com
+- **Christian** Front-End Developer chrisonwueyip@gmail.com
+- **Ikechi** Back-End Developer 
+- **George** Back-End Developer georgeokello335@gmail.com
 
 ## Project Progress
 
@@ -31,6 +33,8 @@ Stay tuned for updates on our progress as we work towards launching Bubble Share
 
 ## Contact Us
 
-For any inquiries please reach out to our team at ______
+For any inquiries please reach out to our team at bubblesharedevs@gmail.com, Twitter: @@identitybubbles
 
-Let's connect and create a more secure and customizable networking and file-sharing solution with Bubble Share!
+Join us, let's create the most secure and customizable networking and file-sharing solution with Bubble Share!
+
+Identity is what we make it.
